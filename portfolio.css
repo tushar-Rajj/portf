@@ -648,9 +648,9 @@ margin-bottom: 10px;
 		min-height: 120vh;
 		grid-gap: 1rem;
 	}
-	.home-text{
-		padding-top: 55px;
-	}
+	    .home-text {
+        padding-top: 180px;
+    }
 	.home-img{
 		text-align: center;
 	}
