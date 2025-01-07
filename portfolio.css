@@ -588,6 +588,9 @@ margin-bottom: 10px;
 		transition: .3s;
 		
 	}
+	.top-btn{
+		    font-size: 15px;
+	}
 }
 
 @media (max-width: 970px){
@@ -628,9 +631,15 @@ margin-bottom: 10px;
 	.navlist.active{
 		top: 100%;
 	}
+	.top-btn{
+		    font-size: 15px;
+	}
 }
 
 @media (max-width: 800px){
+	.top-btn{
+		    font-size: 15px;
+	}
 	.home{
 		grid-template-columns: 1fr;
 		min-height: 120vh;
