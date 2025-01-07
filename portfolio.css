@@ -565,10 +565,13 @@ margin-bottom: 10px;
 
 
 @media (max-width: 1425px){
-	header{
-		padding: 16px 3%;
-		transition: .3s;
+	
+		header {
+    	margin-right: 17px;
+    	padding: 15px 5%;
+    	transition: .3s;
 	}
+	
 	header.sticky{
 		padding: 10px 3%;
 		transition: .3s;
