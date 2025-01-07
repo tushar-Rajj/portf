@@ -589,6 +589,7 @@ margin-bottom: 10px;
 		
 	}
 	.top-btn{
+		        margin-right: 10px;
 		    font-size: 15px;
 	}
 }
@@ -632,12 +633,14 @@ margin-bottom: 10px;
 		top: 100%;
 	}
 	.top-btn{
+		        margin-right: 10px;
 		    font-size: 15px;
 	}
 }
 
 @media (max-width: 800px){
 	.top-btn{
+		        margin-right: 10px;
 		    font-size: 15px;
 	}
 	.home{
